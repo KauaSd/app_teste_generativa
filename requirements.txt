@@ -1,0 +1,4 @@
+# Dependências de execução do Spotify Express
+streamlit>=1.30
+tensorflow>=2.16
+numpy>=1.24
